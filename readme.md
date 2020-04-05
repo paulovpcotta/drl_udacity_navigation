@@ -58,4 +58,5 @@ Environment saved in 271 episodes!	AVG Score: 13.03
 #### References
 
 https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df
+
 Book - Reinforcement Learning, Sutton
