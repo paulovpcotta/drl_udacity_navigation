@@ -40,6 +40,14 @@ eps_decay == .9277
 
 After an initial phase with little progress (due to the high participation in the exploration), the agent begins to obtain higher scores after approximately 10 epochs. After about 179 epochs == 10.03 and 100 epochs had already parked the episilon in 0.00800, progress seems more flattened, but the average score still increases until an average score of 13.0 is reached. Result the problem is not of high complexity for the agent.
 
+Epoch 50	AVG Score: 3.04	epsilon: 0.02346
+Epoch 100	AVG Score: 4.88	epsilon: 0.00800
+Epoch 150	AVG Score: 8.49	epsilon: 0.00800
+Epoch 200	AVG Score: 11.07	epsilon: 0.00800
+Epoch 250	AVG Score: 12.49	epsilon: 0.00800
+Epoch 271	AVG Score: 13.03
+Environment saved in 271 episodes!	AVG Score: 13.03
+
 
 #### References
 
